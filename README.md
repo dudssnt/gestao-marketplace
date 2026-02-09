@@ -1,59 +1,81 @@
-# FrontendGestaoMarketplace
+ ## ✨🚀 Frontend Gestão arketplace 🚀✨
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.3.1.
+Este projeto foi gerado utilizando o poderoso e queridinho dos front-ends, o [Angular CLI](https://github.com/angular/angular-cli) versão **20.3.1**, trazendo organização, produtividade e boas práticas logo de cara 💙
 
-## Development server
+---
 
-To start a local development server, run:
+## 🌱 Servidor de desenvolvimento
+
+Para iniciar um servidor de desenvolvimento local e ver a mágica acontecer, execute:
 
 ```bash
 ng serve
 ```
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+Assim que o servidor estiver rodando, abra seu navegador favorito e acesse  
+`http://localhost:4200/` ✨  
+A aplicação será recarregada automaticamente sempre que você modificar qualquer arquivo do código-fonte. Hot reload pra felicidade da desenvolvedora 😌🔥
 
-## Code scaffolding
+---
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+## 🧩 Geração de código
+
+O Angular CLI inclui ferramentas poderosas de geração de código que ajudam a manter tudo padronizado e organizado.
+
+Para gerar um novo componente, execute:
 
 ```bash
-ng generate component component-name
+ng generate component nome-do-componente
 ```
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
+Quer explorar tudo o que o CLI oferece? Veja a lista completa de esquemas disponíveis (como `components`, `directives` ou `pipes`) com:
 
 ```bash
 ng generate --help
 ```
 
-## Building
+---
 
-To build the project run:
+## 🏗️ Build
+
+Para gerar o build do projeto, execute:
 
 ```bash
 ng build
 ```
 
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
+Esse comando compila a aplicação e armazena os artefatos no diretório `dist/`.  
+Por padrão, o build de produção já vem todo otimizado para **performance**, **velocidade** e **deploy feliz** 🚀✨
 
-## Running unit tests
+---
 
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
+## 🧪 Execução de testes unitários
+
+Para garantir que tudo continue funcionando lindamente, execute os testes unitários com o test runner [Karma](https://karma-runner.github.io):
 
 ```bash
 ng test
 ```
 
-## Running end-to-end tests
+Testes rodando, bugs chorando 😌✅
 
-For end-to-end (e2e) testing, run:
+---
+
+## 🔍 Execução de testes end-to-end
+
+Para realizar testes end-to-end (e2e) e validar o fluxo completo da aplicação, execute:
 
 ```bash
 ng e2e
 ```
 
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
+O Angular CLI não vem com um framework de testes e2e configurado por padrão, então você pode escolher aquele que melhor combine com o seu projeto e com o seu coração 💖
 
-## Additional Resources
+---
 
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+## 📚 Recursos adicionais
+
+Para se aprofundar ainda mais no uso do Angular CLI, conferir comandos avançados e boas práticas, visite a página oficial:  
+[Visão Geral do Angular CLI e Referência de Comandos](https://angular.dev/tools/cli)
+
+✨ Bons códigos e builds sem erro! ✨
