@@ -1,4 +1,4 @@
- ## ✨🚀 Frontend Gestão arketplace 🚀✨
+ ## ✨🚀 Frontend Gestão Marketplace 🚀✨
 
 Este projeto foi gerado utilizando o poderoso e queridinho dos front-ends, o [Angular CLI](https://github.com/angular/angular-cli) versão **20.3.1**, trazendo organização, produtividade e boas práticas logo de cara 💙
 
